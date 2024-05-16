@@ -1,0 +1,7 @@
+{
+    "name":"adam",
+    "address":{
+        "street":"abc",
+        "pincode":"642001"
+    }
+}
